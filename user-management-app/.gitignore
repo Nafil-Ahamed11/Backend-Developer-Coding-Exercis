@@ -1,0 +1,28 @@
+# Dependency directories
+/node_modules
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+/dist
+/build
+
+# Debug files
+*.pid
+
+# Coverage reports
+/coverage
+
+# Optional: lock files (if not versioning them)
+package-lock.json
+
+# Compiled files
+*.tsbuildinfo
